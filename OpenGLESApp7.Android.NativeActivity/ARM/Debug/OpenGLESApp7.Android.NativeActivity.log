@@ -1,0 +1,5 @@
+﻿  ANDROID_HOME=C:\Users\Ahrens\AppData\Local\Android\Sdk
+  ANT_HOME=C:\Users\Ahrens\Documents\Visual Studio 2013\Projects\apacheant\apache-ant-1.9.9
+  JAVA_HOME=C:\Program Files (x86)\Java\jdk1.7.0_55
+  NDK_ROOT=C:\ProgramData\Microsoft\AndroidNDK64\android-ndk-r11c\
+  OpenGLESApp7.Android.NativeActivity.vcxproj -> C:\Users\Ahrens\Documents\VisualStudio\Projects\OpenGLESApp7\ARM\Debug\libOpenGLESApp7.so
